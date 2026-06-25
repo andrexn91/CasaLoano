@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="3">
   <diagram name="Impianto" id="TsRUUlE5htwS3XhF_HRU">
-    <mxGraphModel dx="2491" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1958" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
             <mxPoint x="480" y="94.0909090909091" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CepwukZYsL0JniNO4HtF-58" connectable="0" parent="CepwukZYsL0JniNO4HtF-57" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=9;fontColor=default;labelBackgroundColor=default;" value="1,5 mm&lt;sup&gt;2&lt;/sup&gt;" vertex="1">
+        <mxCell id="CepwukZYsL0JniNO4HtF-58" connectable="0" parent="CepwukZYsL0JniNO4HtF-57" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=9;fontColor=default;labelBackgroundColor=default;" value="0" vertex="1">
           <mxGeometry relative="1" x="-0.226" as="geometry">
             <mxPoint x="51" as="offset" />
           </mxGeometry>
@@ -38,7 +38,7 @@
             <mxPoint x="480" y="115.45454545454545" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CepwukZYsL0JniNO4HtF-60" connectable="0" parent="CepwukZYsL0JniNO4HtF-59" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=9;fontColor=default;labelBackgroundColor=default;" value="2,5 mm&lt;sup&gt;2&lt;/sup&gt;" vertex="1">
+        <mxCell id="CepwukZYsL0JniNO4HtF-60" connectable="0" parent="CepwukZYsL0JniNO4HtF-59" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=9;fontColor=default;labelBackgroundColor=default;" value="3" vertex="1">
           <mxGeometry relative="1" x="-0.226" as="geometry">
             <mxPoint x="51" as="offset" />
           </mxGeometry>
@@ -916,7 +916,7 @@
             <mxRectangle height="30" width="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzxgmfxErIFyIy7xXrpk-215" parent="rzxgmfxErIFyIy7xXrpk-87" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="Non collegate" vertex="1">
+        <mxCell id="rzxgmfxErIFyIy7xXrpk-215" parent="rzxgmfxErIFyIy7xXrpk-87" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="Non presente nello schema / Non collegate" vertex="1">
           <mxGeometry height="30" width="160" x="350" as="geometry">
             <mxRectangle height="30" width="160" as="alternateBounds" />
           </mxGeometry>
@@ -939,7 +939,7 @@
             <mxRectangle height="30" width="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzxgmfxErIFyIy7xXrpk-216" parent="rzxgmfxErIFyIy7xXrpk-91" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="Non collegate" vertex="1">
+        <mxCell id="rzxgmfxErIFyIy7xXrpk-216" parent="rzxgmfxErIFyIy7xXrpk-91" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="Non presente nello schema / Non collegate" vertex="1">
           <mxGeometry height="30" width="160" x="350" as="geometry">
             <mxRectangle height="30" width="160" as="alternateBounds" />
           </mxGeometry>
@@ -962,7 +962,7 @@
             <mxRectangle height="30" width="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzxgmfxErIFyIy7xXrpk-217" parent="rzxgmfxErIFyIy7xXrpk-95" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="?? / Non presente nello schema" vertex="1">
+        <mxCell id="rzxgmfxErIFyIy7xXrpk-217" parent="rzxgmfxErIFyIy7xXrpk-95" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="Non presente nello schema / ??" vertex="1">
           <mxGeometry height="30" width="160" x="350" as="geometry">
             <mxRectangle height="30" width="160" as="alternateBounds" />
           </mxGeometry>
@@ -1054,7 +1054,7 @@
             <mxRectangle height="30" width="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzxgmfxErIFyIy7xXrpk-221" parent="rzxgmfxErIFyIy7xXrpk-172" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="Non collegate" vertex="1">
+        <mxCell id="rzxgmfxErIFyIy7xXrpk-221" parent="rzxgmfxErIFyIy7xXrpk-172" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="Non presente nello schema / Non collegate" vertex="1">
           <mxGeometry height="30" width="160" x="350" as="geometry">
             <mxRectangle height="30" width="160" as="alternateBounds" />
           </mxGeometry>
@@ -1169,7 +1169,7 @@
             <mxRectangle height="30" width="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzxgmfxErIFyIy7xXrpk-226" parent="rzxgmfxErIFyIy7xXrpk-192" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1">
+        <mxCell id="rzxgmfxErIFyIy7xXrpk-226" parent="rzxgmfxErIFyIy7xXrpk-192" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="DA AGGIUNGERE" vertex="1">
           <mxGeometry height="30" width="160" x="350" as="geometry">
             <mxRectangle height="30" width="160" as="alternateBounds" />
           </mxGeometry>
@@ -1192,7 +1192,7 @@
             <mxRectangle height="30" width="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzxgmfxErIFyIy7xXrpk-227" parent="rzxgmfxErIFyIy7xXrpk-196" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1">
+        <mxCell id="rzxgmfxErIFyIy7xXrpk-227" parent="rzxgmfxErIFyIy7xXrpk-196" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="DA AGGIUNGERE" vertex="1">
           <mxGeometry height="30" width="160" x="350" as="geometry">
             <mxRectangle height="30" width="160" as="alternateBounds" />
           </mxGeometry>
@@ -1238,7 +1238,7 @@
             <mxRectangle height="30" width="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzxgmfxErIFyIy7xXrpk-235" parent="rzxgmfxErIFyIy7xXrpk-231" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" vertex="1">
+        <mxCell id="rzxgmfxErIFyIy7xXrpk-235" parent="rzxgmfxErIFyIy7xXrpk-231" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="DA AGGIUNGERE" vertex="1">
           <mxGeometry height="30" width="160" x="350" as="geometry">
             <mxRectangle height="30" width="160" as="alternateBounds" />
           </mxGeometry>
@@ -1606,7 +1606,7 @@
             <mxRectangle height="30" width="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rzxgmfxErIFyIy7xXrpk-315" parent="rzxgmfxErIFyIy7xXrpk-311" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="Non collegato?" vertex="1">
+        <mxCell id="rzxgmfxErIFyIy7xXrpk-315" parent="rzxgmfxErIFyIy7xXrpk-311" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=11;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" value="Non presente nello schema / Non collegato?" vertex="1">
           <mxGeometry height="30" width="160" x="350" as="geometry">
             <mxRectangle height="30" width="160" as="alternateBounds" />
           </mxGeometry>
